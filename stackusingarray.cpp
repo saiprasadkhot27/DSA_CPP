@@ -1,4 +1,4 @@
-```cpp
+
 #include <iostream>
 using namespace std;
 
@@ -10,7 +10,7 @@ private:
     int top;
 
 public:
-    // Constructor
+    
     StackArray() {
         top = -1;
     }
@@ -75,4 +75,4 @@ int main() {
 
     return 0;
 }
-```
+
