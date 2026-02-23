@@ -1,4 +1,4 @@
-```cpp
+
 #include <iostream>
 using namespace std;
 
@@ -18,7 +18,7 @@ private:
     Node* top;
 
 public:
-    // Constructor
+  
     StackLL() {
         top = NULL;
     }
@@ -82,4 +82,4 @@ int main() {
 
     return 0;
 }
-```
+
